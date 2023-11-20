@@ -16,7 +16,7 @@
 
 ## Português
 
-#### ``@author João Paulo``, Link para executar o projeto no [replit.com](https://replit.com/@JooPaulodaSilv1/Arvore-binaria-Implementacao).
+#### ``@author Tuliosantos``, Link para executar o projeto no [replit.com](https://replit.com/@JooPaulodaSilv1/Arvore-binaria-Implementacao).
 
 Este projeto implementa uma árvore binária para tipos genéricos, no qual se usa de um tipo ``address`` declarado na biblioteca ``types.h``, este tipo equivale a um ponteiro do tipo vazio ``void *``, ou tipo declarado neste arquivo de cabeçalho é o tipo ``string``, no qual é equivalente a ``char *``.
 
@@ -102,7 +102,7 @@ typedef struct TREE{
 ## English
 
 
-#### ``@author João Paulo``, Link to run the project on [replit.com](https://replit.com/@JooPaulodaSilv1/Arvore-binaria-Implementacao).
+#### ``@author tuliosantos``, Link to run the project on [replit.com](https://replit.com/@JooPaulodaSilv1/Arvore-binaria-Implementacao).
 
 This project implements a binary tree for generic types, which uses a type ``address`` declared in the ``types.h`` library, this type is equivalent to an empty pointer ``void *``, or type declared in this header file is the ``string`` type, which is equivalent to ``char *``.
 
